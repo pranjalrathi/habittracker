@@ -1,0 +1,5 @@
+{
+  "name": "Future-You Simulator",
+  "description": "A production-grade behavioral simulation engine that projects future life outcomes based on current habits vs. optimized choices using Gemini AI reasoning.",
+  "requestFramePermissions": []
+}
